@@ -1,2 +1,1 @@
-# java
-programs done by me
+# Small projects to practice java
