@@ -1,1 +1,2 @@
-# Small projects to practice java
+# Java
+Small Projects for practice
